@@ -9,3 +9,7 @@ COPY
 ADD
 
 EXPOSE
+
+CMD 
+
+Enterpoint
