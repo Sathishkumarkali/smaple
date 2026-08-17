@@ -5,3 +5,8 @@ label
 RUN
 
 COPY
+
+CMD 
+
+Enterpoint
+
