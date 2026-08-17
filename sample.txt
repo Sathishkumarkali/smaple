@@ -10,3 +10,11 @@ CMD
 
 Enterpoint
 
+ADD
+
+EXPOSE
+
+CMD 
+
+Enterpoint
+
