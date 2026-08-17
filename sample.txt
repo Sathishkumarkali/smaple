@@ -5,3 +5,7 @@ label
 RUN
 
 COPY
+
+ADD
+
+EXPOSE
