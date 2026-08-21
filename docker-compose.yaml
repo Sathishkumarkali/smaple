@@ -1,0 +1,13 @@
+services:
+
+  app:
+    container_name: my-web
+    image: nginx:latest
+    ports:
+      - "8080:80"
+    depends_on:
+      - mongo
+
+  mongo:
+    container_name: my-mongo
+    image: mongo:latest
